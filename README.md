@@ -1,5 +1,4 @@
-
-<h1 align="left"> Hello My name is Brenno</h1>
+# Hello My name is Brenno
 
 ### About Me
 
