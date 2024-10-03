@@ -1,8 +1,6 @@
 
 <h1 align="left"> Hello My name is Brenno</h1>
-
 ---
-
 ### About Me
 
 - 💻 Beginner developer 
