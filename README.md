@@ -4,18 +4,19 @@
   </a>
 </div>
 
-
 #
 
-<p align="center">Me chamo Brenno e comecei minha jornada na programação aos 14 anos, sempre movido pela paixão por jogos. No início, estudei Lua, focado em criar jogos para o Roblox, e passei um tempo desenvolvendo alguns projetos. Com o tempo, minha paixão pela programação só aumentou quando conheci o Python. Desde então, venho me dedicando a aprender e melhorar minhas habilidades nessa linguagem.
+<p align="left">Me chamo Brenno e comecei minha jornada na programação aos 14 anos, sempre movido pela paixão por jogos. No início, estudei Lua, focado em criar jogos para o Roblox, e passei um tempo desenvolvendo alguns projetos. Com o tempo, minha paixão pela programação só aumentou quando conheci o Python. Desde então, venho me dedicando a aprender e melhorar minhas habilidades nessa linguagem.
 
 Atualmente, estou me aprofundando em **Web Desenvolvimento** e tenho o objetivo de me tornar fluente em inglês, além de estar focado em estudar **Análise e Desenvolvimento de Sistemas (ADS)** na faculdade. Meu GitHub é um reflexo do meu foco em **aprendizado contínuo** e **experimentos com tecnologias**, sempre buscando novos desafios.</p>
 
 #
 
-<h3 align="left">Contatos!</h3>
+<h3 align="left">Connect with me!</h3>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0000FF&color:FFF)](https://www.instagram.com/_brennolcy)
+<img align="right" src="https://i.pinimg.com/originals/64/13/3f/64133f9d37e36786d3e91a70ea3e2dd3.gif" width="300" height="150">
+
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mari4.souza/)
 
 <h3 align="left">Habilidades ~</h3>
 
