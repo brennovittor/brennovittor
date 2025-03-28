@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<img align="center" alt="" src="https://i.pinimg.com/originals/06/fc/c1/06fcc1bf787ea853341e0a644b7aee0d.gif" width="1000" />
+<img align="center" alt="" src="https://i.pinimg.com/originals/06/fc/c1/06fcc1bf787ea853341e0a644b7aee0d.gif"/>
 
 #
 
