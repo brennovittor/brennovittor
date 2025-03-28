@@ -12,11 +12,15 @@ Atualmente, estou me aprofundando em **Web Desenvolvimento** e tenho o objetivo 
 
 #
 
-<h3 align="left">Contato</h3>
 
-<img align="right" src="https://i.pinimg.com/originals/64/13/3f/64133f9d37e36786d3e91a70ea3e2dd3.gif" width="300" height="150">
+<img align="right" alt="" height="190px" src="https://i.pinimg.com/originals/21/3c/02/213c02af0689212863f39601160fdec9.gif">
 
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0000FF&color:FFF)](https://www.instagram.com/mari4.souza/)
+<h3 align="left">Contatos</h3>
+
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:alvesbrenno281@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/brenno-vittor)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/_brennolcy)
 
 <h3 align="left">Habilidades ~</h3>
 
