@@ -12,11 +12,11 @@ Atualmente, estou me aprofundando em **Web Desenvolvimento** e tenho o objetivo 
 
 #
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Contato</h3>
 
 <img align="right" src="https://i.pinimg.com/originals/64/13/3f/64133f9d37e36786d3e91a70ea3e2dd3.gif" width="300" height="150">
 
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mari4.souza/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0000FF&color:FFF)](https://www.instagram.com/mari4.souza/)
 
 <h3 align="left">Habilidades ~</h3>
 
