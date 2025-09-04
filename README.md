@@ -38,20 +38,6 @@ Atualmente, estou me aprofundando em **Web Desenvolvimento** e tenho o objetivo 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="github logo"  />
 </div>
 
-#
-
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brennovittor&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=ffffff&text_color=ffffff&border_radius=3&border_color=ffffff&icon_color=ffffff&theme=dark" alt="GitHub stats">
-
-  <a href="https://github.com/brennovittor/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brennovittor&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=ffffff&hide=html,scss,less&bg_color=000000&text_color=8B8B8B&border_radius=3&border_color=ffffff&count_private=true" alt="Most Used Languages">
-  </a>
-</div>
-
-#
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brennovittor/brennovittor/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brennovittor/brennovittor/output/github-contribution-grid-snake-dark.svg">
