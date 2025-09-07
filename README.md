@@ -8,7 +8,7 @@
 
 <p align="left"> Olá, me chamo Brenno. Sou apaixonado por programação e adoro criar sites e desenvolver projetos em Python. Busco constantemente aprofundar meus conhecimentos e expandir minhas habilidades na área de tecnologia.
 
-Atualmente, estou me aprofundando em **Web Desenvolvimento** e tenho o objetivo de me tornar fluente em inglês, além de estar focado em estudar **Análise e Desenvolvimento de Sistemas (ADS)** na faculdade. Meu GitHub é um reflexo do meu foco em **aprendizado contínuo** e **experimentos com tecnologias**, sempre buscando novos desafios.</p>
+Atualmente, estou me aprofundando em **Web Desenvolvimento** e tenho o objetivo de me tornar um Desenvolvedor Back-End. Meu GitHub é um reflexo do meu foco em **aprendizado contínuo**, sempre buscando novos desafios.</p>
 
 #
 
